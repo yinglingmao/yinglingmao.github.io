@@ -1,17 +1,14 @@
 
+Assistant Professor \
+Department of Electrical and Electronic Engineering \
+The Hong Kong Polytechnic University \
+Email: yingling.mao@polyu.edu.hk
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+#### About Me
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+I am an Assistant Professor in the Department of Electrical and Electronic Engineering at The Hong Kong Polytechnic University. I received my Ph.D. in Computer Engineering from the Department of Electrical and Computer Engineering at Stony Brook University in 2025. Prior to that, I earned my Bachelor’s degree in Mathematics and Applied Mathematics from the Zhiyuan Honors Program at Shanghai Jiao Tong University in 2018. My current research interests include distributed quantum computing, quantum networks, edge and cloud computing, Software-Defined Networking (SDN), and network optimization. 
 
-#### Contact
-
-Email: senli[at]fas.harvard.edu
-
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+I have openings for 2-3 PhD students (Fall 2026 Admission), Research Assistants, and Postdoctoral Fellows in the field of distributed quantum computing, and quantum networks. If you are interested, please send me your CV at yingling.mao@polyu.edu.hk.
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
-
+Distributed quantum computing; Quantum networks; Edge and cloud computing; Network optimization.
