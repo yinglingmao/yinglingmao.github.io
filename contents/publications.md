@@ -1,12 +1,12 @@
 * **A Nonblocking Multistage Switching Network for Distributed Quantum Computing**  
 Yu Liu, **Yingling Mao**, Xu Xu, Xiaojun Shang, Fan Ye, and Yuanyuan Yang  
-*IEEE Transactions on Networking (TON)*, 2025 \[Paper](sslocal://flow/file\_open?url=https://ira.lib.polyu.edu.hk/bitstream/10397/114227/1/Liu\_Nonblocking\_Multistage\_Switching.pdf)
+*IEEE Transactions on Networking (TON)*, 2025 \[Paper](sslocal://flow/file\_open?url=https://ira.lib.polyu.edu.hk/bitstream/10397/114227/1/Liu\_Nonblocking\_Multistage\_Switching.pdf\&flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
 * **Remote Gate Scheduling in Distributed Quantum Computing**  
 Xu Xu, Yu Liu, **Yingling Mao**, and Yuanyuan Yang  
 *IEEE 44th International Conference on Distributed Computing Systems (ICDCS)*, pp. 846-856, 2025
 * **Provable Approximation Algorithms for Online Traffic-sensitive SFC Deployment**  
 **Yingling Mao**, Xiaojun Shang, and Yuanyuan Yang  
-*IEEE Transactions on Networking (TON)*, 2025 \[Paper](https://par.nsf.gov/servlets/purl/10628425)
+*IEEE Transactions on Networking (TON)*, 2025 \[Paper](sslocal://flow/file\_open?url=https%3A%2F%par.nsf.gov/servlets/purl/10628425\&flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
 * **Network Topology Design for Distributed Quantum Computing**  
 **Yingling Mao**, Yu Liu, Xiaojun Shang, and Yuanyuan Yang  
 *IEEE 44th International Conference on Distributed Computing Systems (ICDCS)*, pp. 1213–1223, 2024
