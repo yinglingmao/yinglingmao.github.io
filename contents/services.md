@@ -1,8 +1,4 @@
-test
-
-
-
-\#### Reviewers
+#### Reviewers
 
 * IEEE/ACM International Symposium on Quality of Service (IEEE/ACM IWQoS)
 * IEEE Transactions on Mobile Computing (IEEE TMC)
