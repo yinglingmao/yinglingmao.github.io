@@ -1,12 +1,12 @@
 * **A Nonblocking Multistage Switching Network for Distributed Quantum Computing**  
 Yu Liu, **Yingling Mao**, Xu Xu, Xiaojun Shang, Fan Ye, and Yuanyuan Yang  
-*IEEE Transactions on Networking (TON)*, 2025 \[Paper](sslocal://flow/file\_open?url=https://ira.lib.polyu.edu.hk/bitstream/10397/114227/1/Liu\_Nonblocking\_Multistage\_Switching.pdf\&flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
+*IEEE Transactions on Networking (TON)*, 2025
 * **Remote Gate Scheduling in Distributed Quantum Computing**  
 Xu Xu, Yu Liu, **Yingling Mao**, and Yuanyuan Yang  
 *IEEE 44th International Conference on Distributed Computing Systems (ICDCS)*, pp. 846-856, 2025
 * **Provable Approximation Algorithms for Online Traffic-sensitive SFC Deployment**  
 **Yingling Mao**, Xiaojun Shang, and Yuanyuan Yang  
-*IEEE Transactions on Networking (TON)*, 2025 \[Paper](sslocal://flow/file\_open?url=https%3A%2F%par.nsf.gov/servlets/purl/10628425\&flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
+*IEEE Transactions on Networking (TON)*, 2025
 * **Network Topology Design for Distributed Quantum Computing**  
 **Yingling Mao**, Yu Liu, Xiaojun Shang, and Yuanyuan Yang  
 *IEEE 44th International Conference on Distributed Computing Systems (ICDCS)*, pp. 1213–1223, 2024
@@ -15,7 +15,7 @@ Xu Xu, Yu Liu, **Yingling Mao**, and Yuanyuan Yang
 *IEEE Global Communications Conference (GLOBECOM)*, 2024
 * **Qubit Allocation for Distributed Quantum Computing**  
 **Yingling Mao**, Yu Liu, and Yuanyuan Yang  
-*IEEE Conference on Computer Communications (INFOCOM)*, pp. 1–10, 2023  \[\[Paper]](https://par.nsf.gov/servlets/purl/10530935)
+*IEEE Conference on Computer Communications (INFOCOM)*, pp. 1–10, 2023 
 * **Probability-aware Qubit-to-Processor Mapping in Distributed Quantum Computing**  
 **Yingling Mao**, Yu Liu, and Yuanyuan Yang  
 *Workshop on Quantum Networks and Distributed Quantum Computing (QuNet)*, pp. 51–56, 2023
@@ -45,7 +45,7 @@ Yu Liu, **Yingling Mao**, Xiaojun Shang, Zhenhua Liu, and Yuanyuan Yang
 *IEEE 43rd International Conference on Distributed Computing Systems (ICDCS)*, pp. 339–349, 2023
 * **Joint Resource Management and Flow Scheduling for SFC Deployment in Hybrid Edge-and-Cloud Network**  
 **Yingling Mao**, Xiaojun Shang, and Yuanyuan Yang  
-*IEEE Conference on Computer Communications (INFOCOM)*, pp. 170–179, 2022 \[\[Paper]](https://par.nsf.gov/servlets/purl/10472605)
+*IEEE Conference on Computer Communications (INFOCOM)*, pp. 170–179, 2022
 * **Provably Efficient Algorithms for Traffic-sensitive SFC Placement and Flow Routing**  
 **Yingling Mao**, Xiaojun Shang, and Yuanyuan Yang  
 *IEEE Conference on Computer Communications (INFOCOM)*, pp. 950–959, 2022
