@@ -5,7 +5,6 @@
 * IEEE Transactions on Parallel and Distributed Systems (IEEE TPDS)
 * IEEE Transactions on Network Science and Engineering (IEEE TNSE)
 * IEEE Transactions on Communications (IEEE TCOM)
-* Computer Networks
 * Journal of Grid Computing (JGC)
 * Ad Hoc Networks
 
