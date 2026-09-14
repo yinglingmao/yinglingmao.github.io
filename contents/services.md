@@ -1,6 +1,7 @@
 #### Session Chair
 
 * IEEE INFOCOM 2026 (Session 1: Quantum Networks; Session 2: Remote Direct Memory Access (RDMA))
+* IEEE ICDCS 2026 (Session Applications/Digital-Twins 2: Computing Optimization for Digital Twins)
 
 
 

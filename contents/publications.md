@@ -1,3 +1,9 @@
+* **Resource Allocation for Distributed Fault-Tolerant Quantum Computing With Surface Codes**  
+Xu Xu, Yu Liu, **Yingling Mao**, and Yuanyuan Yang  
+*IEEE 46th International Conference on Distributed Computing Systems (ICDCS)*, pp. 1004-1014, 2026
+* **CARL: Crosstalk-Aware Quantum Compilation Based on Reinforcement Learning**
+Xiangzhi Zhang, Yu Liu, **Yingling Mao**, Xu Xu, and Yuanyuan Yang  
+*IEEE 46th International Conference on Distributed Computing Systems (ICDCS)*, 2026.
 * **Joint Optimization of Circuit Transformation and Qubit Mapping for Distributed Quantum Computing**  
 Xiangzhi Zhang, Xu Xu, Yu Liu, **Yingling Mao**, Bin Xiao, and Yuanyuan Yang  
 *IEEE Conference on Computer Communications (INFOCOM)*, pp. 1–10, 2026
